@@ -10,7 +10,7 @@ css3-mediaqueries.jsは、すべてのブラウザでCSS3メディアクエリ�
 
 ページのどこかにスクリプトへのリンクを含める（`<head>`内か、`</body>`以前のいずれか）
 
-   <script src="/js/css3-mediaqueries.min.js"></script>
+    <script src="/js/css3-mediaqueries.min.js"></script>
 
 以上です！スクリプトは`<link>`要素のメディア属性を検出しないので、スタイルシート自体の中で``@media``プロパティを使用することをお勧めします。
 
